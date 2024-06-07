@@ -1,0 +1,182 @@
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.
+A memória é um dispositivo que permite ao computador armazenar dados por certo tempo. Atualmente o termo é geralmente usado para definir as memórias voláteis, como a RAM, mas seu conceito primordial também aborda memórias não voláteis, como o disco rígido. Parte da memória do computador é feita no próprio processador; o resto é diluído em componentes como a memória RAM, memória cache, disco rígido e leitores de mídias removíveis, como disquete, CD e DVD.
+
+Nos computadores modernos, cada posição da memória é configurado para armazenar grupos de oito bits (chamado de um byte). Cada byte consegue representar 256 números diferentes; de 0 a 255 ou de -128 a +127. Para armazenar números maiores pode-se usar diversos bytes consecutivos (geralmente dois, quatro ou oito). Quando números negativos são armazenados, é utilizada a notação de complemento para dois.
+
+A memória do computador é normalmente dividida entre primária e secundária, havendo também pesquisadores que afirmam haver a memória "terciária".
+
+A memória primária é aquela acessada diretamente pela Unidade Lógica e Aritmética. Tradicionalmente essa memória pode ser de leitura e escrita (RAM) ou só de leitura (ROM). Atualmente existem memórias que podem ser classificadas como preferencialmente de leitura, isso é, variações da memória ROM que podem ser regravadas, porém com um número limitado de ciclos e um tempo muito mais alto.
+
+Normalmente a memória primária se comunica com a ULA por meio de um barramento ou canal de dados. A velocidade de acesso a memória é um fator importante de custo de um computador, por isso a memória primária é normalmente construída de forma hierárquica em um projeto de computador. Parte da memória, conhecida como cache fica muito próxima à ULA, com acesso muito rápido. A maior parte da memória é acessada por meio de vias auxiliares.
+
+Normalmente a memória é nitidamente separada da ULA em uma arquitetura de computador. Porém, os microprocessadores atuais possuem memória cache incorporada, o que aumenta em muito sua velocidade.

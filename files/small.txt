@@ -1,0 +1,4 @@
+O processador (ou CPU) é uma das partes principais do hardware do computador e é responsável pelos cálculos, 
+execução de tarefas e processamento de dados. A velocidade com que o computador executa as tarefas ou processa 
+dados está diretamente ligada à velocidade do processador. As primeiras CPUs eram constituídas de vários componentes 
+separados, mas desde meados da década de 1970 as CPUs vêm sendo manufaturadas em um único circuito integrado, sendo então chamadas microprocessadores.
